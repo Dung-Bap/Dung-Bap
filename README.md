@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73333&center=true&width=435&lines=Hi%2C+I'm+Ngo+Van+Dung)](https://git.io/typing-svg)
 <!--
 **Dung-Bap/Dung-Bap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
