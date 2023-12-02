@@ -22,6 +22,9 @@
 <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/bootstrap-%238a1cfd?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</a>
 <!-- <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 </a> -->
@@ -44,11 +47,20 @@
 <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/sequelize-%2334446f?style=for-the-badge&logo=sequelize&logoColor=white" />
+</a>
 
 <h5>Databases</h5>
 <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-%2314678d?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
+
+
 
 <!-- <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
